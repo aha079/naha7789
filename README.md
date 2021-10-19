@@ -1,6 +1,6 @@
 ## I'm Worknig on Deep Reinforcement Learning <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-amir-askari-blue?style=flat-square&logo=Linkedin&logoColor=whi)](https://www.linkedin.com/in/amir-askari-38409b193/) [![Gmail Badge](https://img.shields.io/badge/-askaria079@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:askaria079@gmail.com)](mailto:askaria079@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-AmirAskari-blue?style=flat-square&logo=Linkedin&logoColor=whi)](https://www.linkedin.com/in/amir-askari-38409b193/) [![Gmail Badge](https://img.shields.io/badge/-askaria079@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:askaria079@gmail.com)](mailto:askaria079@gmail.com)
 
 
 ## :computer: Objectives
