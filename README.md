@@ -25,4 +25,4 @@ I'm Working on **Deep Reinforcement Learning and Deep Neural Networks Systems**.
 ## Programming
 <img src = 'https://github.com/alimpk/raw/blob/main/logo/tech/python2.png' height='30'/> <img src = 'https://github.com/naha7789/naha7789/blob/master/linux-tux.svg' width='30'/> <img src = 'https://github.com/naha7789/naha7789/blob/master/scala-4.svg' width='24'/> <img src = 'https://github.com/alimpk/raw/blob/main/logo/tech/c.svg' width='30'/> <img src = 'https://github.com/alimpk/raw/blob/main/logo/tech/cpp.svg' width='30'/> <img src = 'https://github.com/alimpk/raw/blob/main/logo/tech/git.svg' width='30'/> <img src='https://github.com/naha7789/naha7789/blob/master/django-community.svg' height=30> <img src='https://github.com/naha7789/naha7789/blob/master/docker.svg' height=30> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/sql.svg' height=30> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/systemverilog.png' height=28> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/vivado.png' height=30> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/quartusprime.png' height=30>
  
-**Tell me more**
+**Tell me more ...**
